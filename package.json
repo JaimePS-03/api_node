@@ -1,0 +1,10 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "API sencilla creada con el módulo http de Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
